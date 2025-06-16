@@ -3,9 +3,9 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "username" : "khannedy",
+  "username" : "Amin",
   "password" : "rahasia",
-  "name" : "Eko Kurniawan"
+  "name" : "Aminudin Abdulloh"
 }
 
 ###
@@ -15,7 +15,7 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "username" : "khannedy",
+  "username" : "Amin",
   "password" : "rahasia"
 }
 
@@ -34,7 +34,7 @@ Accept: application/json
 Authorization: 19dfc22d-4545-45a9-9b36-ec0fc3fee291
 
 {
-  "name" : "Eko Kurniawan Khannedy"
+  "name" : "Aminudin Abdulloh"
 }
 
 ###
@@ -54,7 +54,7 @@ Authorization: 19dfc22d-4545-45a9-9b36-ec0fc3fee291
 {
   "first_name" : "Joko",
   "last_name" : "Morro",
-  "email" : "joko@pzn.com",
+  "email" : "joko@example.com",
   "phone" : "324234234234"
 }
 
@@ -82,7 +82,7 @@ Authorization: 19dfc22d-4545-45a9-9b36-ec0fc3fee291
 {
   "first_name": "Rully",
   "last_name": "Nugraha",
-  "email": "rully@pzn.com",
+  "email": "rully@example.com",
   "phone": "324234234234"
 }
 
