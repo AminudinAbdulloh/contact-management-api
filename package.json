@@ -1,5 +1,5 @@
 {
-  "name": "belajar-nodejs-restful-api",
+  "name": "contact-management-api",
   "version": "1.0.0",
   "description": "Belajar NodeJS RESTful API",
   "main": "src/main.js",
